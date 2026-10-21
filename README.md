@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Laís Helena
 
-<!--
-**laismourarj15-bot/laismourarj15-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+💻 Estou construindo minha jornada na área de tecnologia, aprendendo programação e desenvolvendo projetos para colocar meus conhecimentos em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Atualmente estou estudando
+
+- Python
+- Desenvolvimento Back-end pelo SENAI
+- Lógica de programação
+- Linguagem C e fundamentos de programação
+
+### 📚 Sobre mim
+
+- 🎯 Buscando evoluir na área de desenvolvimento de software.
+- 🧩 Gosto de aprender como os sistemas funcionam e resolver problemas.
+- 🌱 Compartilhando meus estudos e projetos para acompanhar minha evolução.
+
+### 📂 Projetos
+
+Este perfil reúne exercícios, projetos acadêmicos e atividades práticas desenvolvidas durante meus estudos.
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/la%C3%ADs-helena-moura-dos-santos-242293175/)
