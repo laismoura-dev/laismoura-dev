@@ -1,26 +1,31 @@
 # Olá! 👋 Eu sou a Laís Helena
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UVA.
+💻 Estou construindo minha carreira em tecnologia, com foco em **desenvolvimento back-end**.
+🎯 **Buscando oportunidade de estágio ou vaga júnior** para aprender com um time e contribuir desde o início.
 
-💻 Estou construindo minha jornada na área de tecnologia, aprendendo programação e desenvolvendo projetos para colocar meus conhecimentos em prática.
-
-### 🚀 Atualmente estou estudando
+## 🚀 Atualmente estou estudando
 
 - Python
-- Desenvolvimento Back-end pelo SENAI
+- SQL e bancos de dados
+- Desenvolvimento Back-end (Firjan SENAI)
 - Lógica de programação
 - Linguagem C e fundamentos de programação
 
-### 📚 Sobre mim
+## 📂 Projetos
 
-- 🎯 Buscando evoluir na área de desenvolvimento de software.
-- 🧩 Gosto de aprender como os sistemas funcionam e resolver problemas.
-- 🌱 Compartilhando meus estudos e projetos para acompanhar minha evolução.
+- [classificador-de-notas](https://github.com/laismoura-dev/classificador-de-notas): Python, classificação de notas de alunos com estruturas condicionais.
+- [controle-de-temperatura-c](https://github.com/laismoura-dev/controle-de-temperatura-c): C, lógica de programação e estruturas condicionais.
 
-### 📂 Projetos
+Novos projetos de back-end (API REST com Python e banco de dados) estão a caminho. 🌱
 
-Este perfil reúne exercícios, projetos acadêmicos e atividades práticas desenvolvidas durante meus estudos.
+## 📚 Sobre mim
 
-### 📫 Contato
+- 🧩 Gosto de entender como os sistemas funcionam e resolver problemas.
+- 🌱 Compartilho meus estudos e projetos para acompanhar minha evolução.
 
-- [LinkedIn](https://www.linkedin.com/in/la%C3%ADs-helena-moura-dos-santos-242293175/)
+## 📫 Contato
+
+- E-mail: laismoura.dev99@gmail.com
+- LinkedIn: [linkedin.com/in/laishelenasantos](https://www.linkedin.com/in/laishelenasantos)
+- GitHub: [laismoura-dev](https://github.com/laismoura-dev)
